@@ -1,6 +1,6 @@
 # lds.contexto
 
-I drew inspiration for this project from the online game found at contexto.me.
+I drew inspiration for this project from a game I found online (contexto.me).
 
 My version of the game was used for my final project in LING360 at BYU. 
 
